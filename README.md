@@ -18,7 +18,7 @@ I am a passionate Data Analyst with a strong foundation in data science, statist
 - Open-source projects related to machine learning or data engineering.  
 
 ## 📫 How to reach me ...  
-- Email: aminfeli@example.com  
+- Email: amin.feli.2010@gmail.com  
 - LinkedIn: [linkedin.com/in/aminfeli](https://linkedin.com/in/aminfeli)  
 - GitHub: [github.com/aminfeli](https://github.com/aminfeli)  
 
