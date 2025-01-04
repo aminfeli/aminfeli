@@ -1,18 +1,30 @@
-- 👋 Hi, I’m @aminfeli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m @aminfeli  
+I am a passionate Data Analyst with a strong foundation in data science, statistics, and machine learning.  
 
-Discover Quality at Your Fingertips! Welcome to www.esoal24.com, your one-stop destination for premium products. Explore a diverse range of items from electronics to fashion, all crafted with excellence and affordability in mind. Enjoy hassle-free shopping with secure transactions and swift delivery to your doorstep. Elevate your lifestyle with esoal24.com today!”
+## 👀 I’m interested in ...  
+- Extracting actionable insights from data  
+- Building predictive models to solve real-world problems  
+- Visualizing data to communicate findings effectively  
+- Exploring big data and cloud platforms like GCP and AWS  
 
-“Empower Your Learning Journey! Dive into www.azmoon-advaritvto.ir, where education meets innovation. Explore our comprehensive collection of study materials and educational resources tailored to your success. From exam preparation to insightful tutorials, our platform supports your academic aspirations with quality content and accessible tools. Join us in shaping your future with azmoon-advaritvto.ir!”
+## 🌱 I’m currently learning ...  
+- Advanced machine learning techniques  
+- Natural Language Processing (NLP)  
+- Data visualization tools like Tableau and Power BI  
+- Big data tools such as Apache Spark  
 
-“Unlock Your Home’s Potential! Welcome to www.advari24.ir, your premier destination for home essentials and decor. Browse through our curated selection of furniture, appliances, and decorative accents designed to transform your living space. Discover exclusive deals and expert advice on creating a home that reflects your style and personality. Begin your journey to a more inviting home with advari24.ir!”
+## 💞️ I’m looking to collaborate on ...  
+- Data analytics projects that involve exploratory data analysis, predictive modeling, or optimization.  
+- Open-source projects related to machine learning or data engineering.  
 
-“Your Gateway to Knowledge! Explore www.20pdf.ir for a vast collection of digital resources and eBooks. Whether you’re seeking academic texts, professional manuals, or leisure reads, our library offers a diverse range of PDFs to suit every interest and need. Join our community of avid readers and enthusiasts to discover the joy of digital reading anytime, anywhere. Start your reading adventure with 20pdf.ir
+## 📫 How to reach me ...  
+- Email: aminfeli@example.com  
+- LinkedIn: [linkedin.com/in/aminfeli](https://linkedin.com/in/aminfeli)  
+- GitHub: [github.com/aminfeli](https://github.com/aminfeli)  
 
-“Celebrate Creativity with www.ir-Theme.ir Welcome to a world where design meets innovation. Dive into our vibrant collection of premium WordPress themes and templates, meticulously crafted to elevate your website’s presence. Whether you’re a blogger, entrepreneur, or business owner, discover customizable designs that reflect your unique vision. Explore endless possibilities and unleash your creativity with IR-Theme.ir. Your journey to a stunning online presence starts here
---->
+## 😄 Pronouns:  
+He/Him  
+
+## ⚡ Fun fact:  
+When I’m not crunching numbers, I enjoy yoga, wrestling, and exploring new technologies to expand my skill set!  
+
